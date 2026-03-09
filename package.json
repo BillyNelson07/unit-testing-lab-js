@@ -13,6 +13,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@vitest/coverage-v8": "^4.0.18",
+    "@vitest/ui": "^4.0.18",
     "vitest": "^4.0.18"
   }
 }
